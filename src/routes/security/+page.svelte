@@ -3,7 +3,7 @@
 </script>
 
 <div class="flex flex-col justify-center items-center text-white text-left w-full px-4">
-	<figure class="flex flex-col justify-center items-center w-full max-w-2xl mx-auto">
+	<figure class="flex flex-col justify-center items-center w-full max-w-xl mx-auto">
 		<img src="/security.png" class="h-auto object-contain rounded-lg" alt="Cybersecurity" />
 	</figure>
 	<div class="max-w-2xl mx-auto text-center">
